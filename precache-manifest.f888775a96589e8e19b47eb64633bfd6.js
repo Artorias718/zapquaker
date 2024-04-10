@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6079b33efb9316dd4361fa2e795ab382",
+    "revision": "c6b59fba6f1aa183a36a1c35cdf9361f",
     "url": "/zapquaker/index.html"
   },
   {
-    "revision": "718448cbef3165afac58",
+    "revision": "3031456a556c3e8e94f0",
     "url": "/zapquaker/static/css/main.a13e9516.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zapquaker/static/js/2.a33392e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "718448cbef3165afac58",
-    "url": "/zapquaker/static/js/main.2c9bd7b6.chunk.js"
+    "revision": "3031456a556c3e8e94f0",
+    "url": "/zapquaker/static/js/main.d217aafb.chunk.js"
   },
   {
     "revision": "3a50d069fa33e46e0db7",
